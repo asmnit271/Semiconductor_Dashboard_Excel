@@ -23,3 +23,4 @@ WPS Sheets | PivotTables | Slicers | Charts | SUMIFS | MAXIFS | IF formulas
 ## Skills Demonstrated
 Data cleaning | Calculated columns | PivotTable analysis | 
 Interactive dashboard design | Semiconductor domain knowledge
+
