@@ -1,4 +1,5 @@
 Dasboard:https://docs.google.com/spreadsheets/d/1AdHASL23gcrdjSws7IPtAYbgnDFfid2r/edit?usp=sharing&ouid=115901394792622983470&rtpof=true&sd=true
+
 PPT: https://docs.google.com/presentation/d/1jAdDYH7CBjUl-Ygd6_x5t6aTitgQpv9m/edit?usp=sharing&ouid=115901394792622983470&rtpof=true&sd=true
 # Semiconductor Industry Intelligence Dashboard
 
